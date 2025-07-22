@@ -112,4 +112,6 @@ I'm a Fullstack developer.
 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
 
 ---
-![](https://count.getloli.com/@anhyeager?name=anhyeager&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<!-- Tạo namespace “anhyeager” và key “haikyu” -->
+![Haikyu Visits](https://img.shields.io/endpoint?style=for-the-badge&url=https://api.countapi.xyz/hit/anhyeager/haikyu&label=Haikyu%20Visits&logo=volleyball&logoColor=white)
+
