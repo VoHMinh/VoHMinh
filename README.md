@@ -113,4 +113,4 @@ Thanks for stopping by! Feel free to explore my repositories or reach out for co
 
 ---
 <!-- Tạo namespace “anhyeager” và key “haikyu” -->
-https://count.getloli.com/@VoHMinh?name=VoHMinh&theme=random&padding=7&offset=0&align=bottom&scale=1&pixelated=1&darkmode=auto
+![](https://count.getloli.com/@anhyeager?name=VoHMinh&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
