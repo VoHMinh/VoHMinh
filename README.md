@@ -6,7 +6,6 @@ I'm a Fullstack developer.
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VoHMinh&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoHMinh&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=html,css,scss)
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=VoHMinh&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ## 🦀 About Me  
