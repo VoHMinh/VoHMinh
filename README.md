@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nam+Dang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoàng+Minh!;" />
 </h1>
 
 I'm a Fullstack developer.
@@ -48,7 +48,7 @@ I'm a Fullstack developer.
 
 ## 🌟 Connect with me
 
-- **Email:** [namdangcoder@gmail.com](mailto:namdangcoder@gmail.com)   
+- **Email:** [namdangcoder@gmail.com](mailto:minh7n3@gmail.com)   
 
 
 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
