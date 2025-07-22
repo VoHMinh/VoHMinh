@@ -113,5 +113,5 @@ Thanks for stopping by! Feel free to explore my repositories or reach out for co
 
 ---
 <!-- Tạo namespace “anhyeager” và key “haikyu” -->
-![Haikyu Visits](https://img.shields.io/endpoint?style=for-the-badge&url=https://api.countapi.xyz/hit/anhyeager/haikyu&label=Haikyu%20Visits&logo=volleyball&logoColor=white)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=anhyeager.haikyu)
 
