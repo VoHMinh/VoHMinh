@@ -15,7 +15,7 @@ I'm a Fullstack developer.
 
 ## 🦀 About Me  
 
-- **Fullstack Developer:** Designing scalable, reliable, and high-performance systems with beautiful UI.  
+Fullstack Developer: Delivering high-quality applications with reliable infrastructure and sleek, user-friendly interfaces.
 
 ---
 
