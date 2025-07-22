@@ -4,8 +4,7 @@
 
 I'm a Fullstack developer.
 
----
-<p align="left">
+---<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VoHMinh&show_icons=true&theme=github_dark" alt="GitHub stats" />
   &nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
