@@ -5,8 +5,14 @@
 I'm a Fullstack developer.
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VoHMinh&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=VoHMinh&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VoHMinh&show_icons=true&theme=github_dark" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=VoHMinh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 ## 🦀 About Me  
 
