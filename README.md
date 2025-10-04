@@ -115,11 +115,11 @@ Fullstack Developer: Delivering high-quality applications with reliable infrastr
 <tbody>
 <tr border="none">
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoHMinh&amp;theme=radical&amp;show_icons=true&amp;count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoHMinh&amp;theme=github_dark&amp;show_icons=true&amp;count_private=true">
     <br/>
   </td>
   <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHMinh&layout=compact&theme=radical&hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHMinh&layout=compact&theme=github_dark&hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
 </tbody>
