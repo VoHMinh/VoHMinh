@@ -101,11 +101,6 @@ Fullstack Developer: Delivering high-quality applications with reliable infrastr
 </p>
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VoHMinh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
 ---
 ## 📊 Git Stats
 
