@@ -80,30 +80,6 @@ I am a Software Engineer currently studying at FPT University. I specialize in b
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoHMinh&theme=github_dark&show_icons=true&count_private=true&hide_border=false" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHMinh&layout=compact&theme=github_dark&hide_border=false&langs_count=6" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="80%" src="https://github-profile-trophy.vercel.app/?username=VoHMinh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VoHMinh/VoHMinh/main/github-contribution-grid-snake.svg" alt="Snake animation">
-  <!-- Note: Thay đường link trên bằng link tạo animation snake của chính repo bạn để nó hoạt động -->
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
