@@ -1,149 +1,124 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hoàng+Minh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Võ+Hoàng+Minh!;" alt="Typing Greeting" />
 </h1>
-<div align="center">
-<h3 align="center">Software Engineer </h3>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> 
-<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
 
+<div align="center">
+  <h3>Software Engineer | Fullstack & Backend Developer</h3>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" alt="coding gif"> 
+  <i>Building scalable systems while HOPING & HUSTLING!!!</i> 
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" alt="hustling gif">
 </div>
 
-I'm a Fullstack developer.
-
----<p align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-eight.vercel.app?user=VoHMinh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
+---
 
-## 🦀 About Me  
+## 👨‍💻 About Me
 
-Fullstack Developer: Delivering high-quality applications with reliable infrastructure and sleek, user-friendly interfaces.
+I am a Software Engineer currently studying at FPT University. I specialize in backend architecture, microservices, and cloud infrastructure, with a strong focus on delivering high-quality, scalable applications.
+
+- 🏗️ **Core Focus:** Java Spring Boot ecosystem, Hexagonal Architecture, and Microservices (Java, Go, TypeScript).
+- 🎯 **Current Goals:** Developing robust SaaS platforms and continuously refining my software engineering and project management practices.
+- ⚡ **Fun Fact:** When I'm not coding, you can probably find me on the volleyball court wearing jersey #14!
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ Skills & Technologies
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-JAV101?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<details>
+  <summary><b>💻 Programming Languages</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-</p>
+  </p>
+</details>
 
-<h3 align="left">Tech</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<details open>
+  <summary><b>⚙️ Frameworks & Libraries</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  </a>
-</p>
-
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  </a>
-</p>
+  </p>
+</details>
 
+<details open>
+  <summary><b>🗄️ Database & Cloud & DevOps</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
+</details>
 
 ---
-## 📊 Git Stats
 
-<table align="center">
-<tbody>
-<tr border="none">
-  <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoHMinh&amp;theme=github_dark&amp;show_icons=true&amp;count_private=true">
-    <br/>
-  </td>
-  <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHMinh&layout=compact&theme=github_dark&hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
-</tr>
-</tbody>
-</table>
-<!--- stats (end) -->
-<!--- trophy (start) -->
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏢 SmartLife (DiHouse)** | A comprehensive SaaS property management system designed for apartment complexes. Operates on a per-apartment subscription model, managing resident fees and complex logic. | `Spring Boot`, `PostgreSQL`, `MongoDB` |
+| **🎓 BandUp** | An AI-powered IELTS learning platform featuring automated evaluations and highly structured material-specific quiz logic. | `Java`, `AI Integration`, `Web` |
+| **♻️ LastBite** | A platform aimed at reducing food waste, specifically adapted with business solutions and UI tailored for the Vietnamese market. | `UI/UX`,`Java`,`Fullstack` |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VoHMinh&theme=github_dark&show_icons=true&count_private=true&hide_border=false" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHMinh&layout=compact&theme=github_dark&hide_border=false&langs_count=6" width="48%" />
+</div>
+
+<br/>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=VoHMinh&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
-    </a>
+    <img align="center" width="80%" src="https://github-profile-trophy.vercel.app/?username=VoHMinh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+  </a>
 </div>
-<!--- trophy (start) -->
-<p></p>        
-<!--- stats (end) -->
 
-<hr>
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example">
+  <img src="https://raw.githubusercontent.com/VoHMinh/VoHMinh/main/github-contribution-grid-snake.svg" alt="Snake animation">
+  <!-- Note: Thay đường link trên bằng link tạo animation snake của chính repo bạn để nó hoạt động -->
 </p>
-## 📂 Featured Projects
 
 ---
 
-## 🌟 Connect with me
+## 📫 Connect With Me
 
-- **Email:** [minh7n3@gmail@gmail.com](mailto:minh7n3@gmail.com)   
+<p align="center">
+  <a href="mailto:minh7n3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+<p align="center">
+  <i>Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀</i>
+</p>
 
-Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
-
----
-<!-- Tạo namespace “anhyeager” và key “haikyu” -->
-![](https://count.getloli.com/@anhyeager?name=VoHMinh&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<p align="center">
+  <img src="https://count.getloli.com/@anhyeager?name=VoHMinh&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views" />
+</p>
